@@ -2,7 +2,7 @@
 
 My name is Gabriel Gonçalves' from Brazil (🇧🇷).
 I've been working as Back-End Developer since 2012 and currently I'm Fullstack developer at [Alterdata](https://www.alterdata.com.br). 
-I'm passionate about technology, and I love to discover and learn new things.
+I'm passionate about technology, and Ilove exploring and learning new things every day.
 
 In my free time I like to play guitar (:guitar:), to listen music(🎵), to watch movies (🎞️) and series (📺) and to read books (📚).
 
