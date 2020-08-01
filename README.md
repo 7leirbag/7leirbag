@@ -7,4 +7,5 @@ I'm passionate about technology, and I love to discover and learn new things.
 In my free time I like to play guitar (:guitar:), to listen music(🎵), to watch movies (🎞️) and series (📺) and to read books (📚).
 
 Would you like to find me?
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieldsn/)](https://www.linkedin.com/in/gabrieldsn/)
